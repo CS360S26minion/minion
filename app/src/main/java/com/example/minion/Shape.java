@@ -1,4 +1,4 @@
-package com.yourpackage;
+package com.example.minion;
 
 public abstract class Shape {
 
